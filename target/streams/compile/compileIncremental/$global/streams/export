@@ -1,0 +1,1 @@
+scalac -classpath /Users/tsuchiyaken/workspace/scala-study/target/scala-2.12/classes -bootclasspath /Users/tsuchiyaken/.sbt/boot/scala-2.12.7/lib/scala-library.jar /Users/tsuchiyaken/workspace/scala-study/PartialSumDFS.scala /Users/tsuchiyaken/workspace/scala-study/PartialSaturation.scala

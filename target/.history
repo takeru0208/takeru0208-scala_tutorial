@@ -1,0 +1,31 @@
+run
+runMain Factorial
+runMain FactorialOver10000
+runMain Factorial
+runMain Factorization.scala
+run
+runMain Factorization.scala
+runMain Factorization
+Seq(1, 2, 3)
+:quit
+quit
+exit
+runMain Factorization
+exit
+runMain SimpleSearch
+runMain RegexSearch
+runMain PartialSumDFS
+exit
+runMain PartialSumDFS
+run
+runMain PartialSatuation
+runMain PartialSumDFS
+sbt run
+run
+quit
+exit
+run
+runMain Distance
+run
+quit
+exit
